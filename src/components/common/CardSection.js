@@ -10,14 +10,15 @@ const CardSection = (props) =>{
     );
 
 };
-
+/*
+backgroundColor: '#692058',
+*/
 const styleObj = {
 
     containerStyle: {
         borderBottomWidth: 1,
         borderRadius:4,
         padding:5,
-        backgroundColor: '#692058',
         justifyContent:'flex-start',
         flexDirection:'row',
         borderColor: '#fbd5ff',
